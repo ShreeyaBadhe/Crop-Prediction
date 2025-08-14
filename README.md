@@ -50,8 +50,8 @@ The system supports integration with **IoT devices** for real-time data and feat
 ## 📥 Installation & Usage
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/crop-recommendation.git
-   cd crop-recommendation
+   git clone https://ShreeyaBadhe/Crop-Recommendation.git
+   cd Crop-Recommendation
 
 
 2. **Install dependencies**
